@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sherry.
-- 👀 I’m learning data analytics and dabble in web development.
-- 🌱 I’m currently taking the Data Analytics bootcamp offered by Columbia University - Engineering.
-- 💞️ I’m looking to collaborate on analytics and visualizations.
+- 👀 I’m updating my web development skills and dabble in data analytics.
+- 🌱 Recently completed the Data Analytics bootcamp offered by Columbia University - Engineering.
+- 💞️ Currently assisting the Town of Otisco Historian in researching local points of interest eligible for the New York State Historic Marker Grant Program.
 - 📫 More to come...
 
 <!---
